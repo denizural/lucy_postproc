@@ -10,9 +10,9 @@ A detailed description of the LUCY model can be found in Allen et al. (2011) and
 
 ## Screenshots:
 
-![animation](images\animation.gif)
+![animation](images/animation.gif)
 
-![timeseries](images\timeseries.png)
+![timeseries](images/timeseries.png)
 
 
 
