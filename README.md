@@ -3,7 +3,7 @@ LUCY Postproc is a simple Python interface to analyze and visualize the outputs 
 
 A detailed description of the LUCY model can be found in Allen et al. (2011) and Lindberg et al. (2013).
 
-+ Allen L, F Lindberg, CSB Grimmond (2011) Global to city scale model for anthropogenic heat flux, International Journal of Climatology, 31, 1990-2005 .
++ Allen L, F Lindberg, CSB Grimmond (2011) Global to city scale model for anthropogenic heat flux, International Journal of Climatology, 31, 1990-2005. https://doi.org/10.1002/joc.2210
 + Lindberg F, Grimmond CSB, Nithiandamdan Y, Kotthaus S, Allen L (2013) Impact of city changes and weather on anthropogenic heat flux in Europe 1995–2015, Urban Climate, 4, 1-15. http://dx.doi.org/10.1016/j.uclim.2013.03.002
 
 
